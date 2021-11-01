@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam :) 
 - 👀 I’m interested in Statistics and Data Science, Artificial Intelligence,
-     Machine Learning, Game Development, and Web Development.
+     Machine Learning, Game Development, and Software Development.
 - 🌱 I’m currently studying for a Computer Science with Statistics and Data Science Degree
      at the Hebrew University of Jerusalem.
 - 📫 My email: shtrasner@gmail.com
