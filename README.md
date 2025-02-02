@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 Interested in the fields of **Statistics and Data Science, Data Analysis, Machine Learning, Deep Learning and AI.**
 
-- 📫 How to reach me **shtrasner@gmail.com**
+- 📫 How to reach me **adamshtrasner@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
